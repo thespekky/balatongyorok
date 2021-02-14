@@ -6,6 +6,28 @@ body
 }
 div
 {
- text-align: center;
+float: center;
  width: 1000px;
+ padding-left: 50px;
+}
+div#header
+{
+    background-image: url("panorama.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-image: fill;
+    min-width: 650px;
+    max-width: 1000px;
+    height: 230px;
+}
+img
+{
+    width: 150px;
+    height: 150px;
+    padding-right: 100px;
+    padding-top: 44px;
+}
+div#right
+{
+   text-align: right;
 }
