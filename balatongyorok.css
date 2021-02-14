@@ -8,7 +8,7 @@ div
 {
 float: center;
  width: 1000px;
- padding-left: 50px;
+ padding-left: 30px;
 }
 div#header
 {
@@ -30,4 +30,20 @@ img
 div#right
 {
    text-align: right;
+}
+div#bal
+{
+text-align: center;
+float: left;
+width: 450px;
+background-color: #5b9cea;
+border: 200px;
+}
+div#jobb
+{
+float: right;
+text-align: center;
+width: 450px;
+border: 200px;
+background-color: #5b9cea;
 }
