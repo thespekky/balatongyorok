@@ -33,7 +33,7 @@ div#right
 }
 div#bal
 {
-text-align: center;
+
 float: left;
 width: 450px;
 background-color: #5b9cea;
@@ -42,8 +42,19 @@ border: 200px;
 div#jobb
 {
 float: right;
-text-align: center;
+
 width: 450px;
 border: 200px;
 background-color: #5b9cea;
+}
+div#belso
+{
+    width: 430px;
+    padding: 0px;
+    border:1px solid white;
+}
+table
+{
+    background-color: #b0d1f1;
+    border:1px solid black ;
 }
